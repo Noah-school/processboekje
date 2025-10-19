@@ -1,10 +1,3 @@
----
-cssclasses:
-  - bold_red
-  - fixedimgsize
-  - hr_red
-  - rounded
----
 # Process: Maker schaakspel
 
 ## **Week 1:**
