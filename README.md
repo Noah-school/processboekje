@@ -12,12 +12,12 @@ Ideeen besproken, gesettled voor linux en drankspel. Mindmaps gemaakt, moodboard
 - Moodboard afgemaakt en toegevoegd aan de presentaties.
 
 Verdeling
-Koning: Groot en machtig, de quintessential "bierglas", het soort dat je verwacht bij een stoere 40 jarige man bij een toog.
-Dame: Groot maar ingetogen, fancy - lijkt als een champagneglas. 
-Torens: Stevig en rechthoekig zoals de originele torens.
-Lopers: Fancy, vorstelijk, het soort glas dat je ziet bij de rijke mensen.
-Paarden: Simpel, makkelijk ondergeschat - ze zijn onopzichtelijk maar kunnen snel een probleem worden. 
-Pionnen: Klein en zonder specifieke kenmerken - een gewoone beker.
+- Koning: Groot en machtig, de quintessential "bierglas", het soort dat je verwacht bij een stoere 40 jarige man bij een toog.
+- Dame: Groot maar ingetogen, fancy - lijkt als een champagneglas. 
+- Torens: Stevig en rechthoekig zoals de originele torens.
+- Lopers: Fancy, vorstelijk, het soort glas dat je ziet bij de rijke mensen.
+- Paarden: Simpel, makkelijk ondergeschat - ze zijn onopzichtelijk maar kunnen snel een probleem worden. 
+- Pionnen: Klein en zonder specifieke kenmerken - een gewoone beker.
 
 ---
 
