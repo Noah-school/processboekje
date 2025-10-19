@@ -1,0 +1,1 @@
+To make it compatible for everyone, I will occasionally upload the images to Imgur. Just place your images in the correct folder with your name and week on it for ease of use.
