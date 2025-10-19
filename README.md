@@ -29,11 +29,8 @@ Tijdelijk glas verdeling:
 
 ### Erik:
 Drankspel werd gekozen als schaakspel. Besloten wie welk schaakstuk gaat doen en welk bierglas welke schaakstuk gaat representeren.
-Idee is dat hoe belangrijker het schaakstuk is hoe meer volume het kan houden tot een shot (10ml).
-Ik ga voor de pion wat een stout gaat zijn, dit is ook logisch want een stout houdt het minste vloeistof en is het kleinste van alle schaakstukken.
-
-Idee is dat hoe belangrijker het schaakstuk is hoe meer volume het kan houden tot een shot (10ml).
-Ik ga voor de pion wat een stout gaat zijn, dit is ook logisch want een stout houdt het minste vloeistof en is het kleinste van alle schaakstukken.
+Idee is dat hoe belangrijker het schaakstuk is hoe meer volume het kan houden tot een shot (30ml).
+Ik ga voor de pion wat een stoutglas gaat zijn, dit is ook logisch want een stoutglas houdt het minste vloeistof en is het kleinste van alle schaakstukken.
 
 ![](https://i.imgur.com/AqU0GKe.png)
 
@@ -74,27 +71,6 @@ De symbool als sketch...
 ...en dan embossed op de main body voor een volledige opmaak.
 
 ![](https://i.imgur.com/ODSNnhn.png)
-
-#### Dame
-Vanuit de sketch:
-
-![](https://i.imgur.com/w7kf2nn.png)
-
-Gemaakt uit twee bodies: de base...
-
-![](https://i.imgur.com/hLu8EYK.png)
-
-...en de main body waar de vloeistof in gaat.
-
-![](https://i.imgur.com/sr0NzeE.png)
-
-De symbool als sketch...
-
-![](https://i.imgur.com/6RtrYgD.png)
-
-...en dan embossed op de main body voor een volledige opmaak.
-
-![](https://i.imgur.com/7MDfW5l.png)
 
 ### Noah
 Mijn taak was om de koning en loper te ontwerpen te ontwerpen. Ik gebruikte de gedeelde voorbeeld foto's met de techniek dat we voor de fles hebben gebruikt. Na dit te ontwerpen kreeg ik inspiratie van de andere door het logo op het glas te plaatsen met emboss. dit was lastig door de auto alignment maar men kon dit oplossen door de waarde aan te passen of wat ik uiteindelijk gedaan heb de sketch op voorrand te alignen. Na dat alle models klaar waren ging ik dit als prototype afdrukken om meteen te zien als er design fouten te zien was. tijdens het slicen van deze models kwam ik er achter dat PRUSA slicer niet goed werkt met mijn ELEGOO neptune printer. namelijk de alignment was niet optimaal en de printer crashte een keer door file intestacy. Uiteindelijk ben ik terug gestapt naar CURA waar ik meer vertrouwd met was. na dat alles geprint was kwam ik er achter dat de volumes niet correct was en dat ik perrongeluk de volume van het model in plaats van wat er in past afmeet. er was ook een momentje dat de PLA op en die natuurlijk ook vervangen moest worden.
